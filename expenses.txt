@@ -1,0 +1,3 @@
+2023-10-10,Notebooks,200.5
+2023-10-15,Books,500.25
+2023-10-20,Assignment pages,70.5
